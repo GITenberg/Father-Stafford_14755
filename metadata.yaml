@@ -1,0 +1,34 @@
+_repo: Father-Stafford_14755
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hope, Anthony
+    alias: Hawkins, Anthony Hope
+    birthdate: 1863
+    deathdate: 1933
+    gutenberg_agent_id: '63'
+    url: http://www.gutenberg.org/2009/agents/63
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Hope
+description: The novel begins The world considered Eugene Lane a very fortunate young
+  man; and if youth, health, social reputation, a seat in Parliament, a large income,
+  and finally the promised hand of an acknowledged beauty can make a man happy, the
+  world was right." In this book, a young Anglican priest, torn between love and faith,
+  must reconcile the urgings of body and soul.
+gutenberg_issued: '2005-01-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14755'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Social life and customs -- Fiction'
+- !lcsh 'Mate selection -- Fiction'
+- !lcsh 'Clergy -- Fiction'
+- !lcc 'PR'
+title: Father Stafford
+url: http://www.gutenberg.org/ebooks/14755
